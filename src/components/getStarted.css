@@ -1,0 +1,21 @@
+.form-group{
+  width: 60%;
+  margin: 0 auto;
+ 
+  
+}
+.form-input{
+  padding: 25px 40px;
+  width: 60%;
+  margin-right: 5px;
+  background: transparent;
+  color: white;
+  font-size: 15px;
+
+}
+
+.hero-description{
+  font-size: 18px;
+  line-height: 0.9;
+  text-align: center;
+}
