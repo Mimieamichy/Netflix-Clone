@@ -1,0 +1,19 @@
+.section-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 30px 0;
+}
+
+.container-left,
+.container-right {
+  flex-basis: 45%;
+}
+.container-title {
+  font-size: 40px;
+  font-weight: 800;
+}
+.container-info {
+  font-size: 25px;
+  font-weight: 500;
+}
