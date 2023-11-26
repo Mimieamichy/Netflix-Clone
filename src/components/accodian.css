@@ -1,0 +1,26 @@
+.accodian-section {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+} 
+.accodian-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #414141;
+  padding: 18px 25px;
+  font-size: 15px;
+  font-weight: lighter;
+  
+}
+.accodian-text {
+  background-color: #2d2d2d;
+
+}
+.accodian-texts {
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.5;
+  padding: 18px 25px;
+}
+

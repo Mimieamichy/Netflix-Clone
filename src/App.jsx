@@ -2,6 +2,7 @@ import React from "react";
 import Header from "./components/Header";
 import { netflix } from "./constants/data";
 import Container from "./components/Container";
+import AccodianList from "./components/AccodianList";
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
             return <Container key={data.id} {...data} />;
           }
         })}
+         <AccodianList />
       </section>
     </div>
   );
