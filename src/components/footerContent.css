@@ -1,0 +1,36 @@
+footer {
+  width: 80%;
+  margin: 70px 0;
+
+}
+footer span a{
+  color: #B3B3B3;
+  font-size: 17px;
+  line-height: 2.5;
+}
+
+
+
+.footerContent-section{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+ justify-content: space-between;
+  
+  
+  
+}
+
+ul {
+  list-style: none;
+  line-height: 0;
+  padding: 0;
+  margin: 0;
+}
+ul li{
+  line-height: 2;
+}
+ul a{
+  color: #B3B3B3;
+  font-size: 15px;
+}

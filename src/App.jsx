@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import { netflix } from "./constants/data";
 import Container from "./components/Container";
 import AccodianList from "./components/AccodianList";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
@@ -25,6 +26,7 @@ export default function App() {
           }
         })}
          <AccodianList />
+         <Footer />
       </section>
     </div>
   );
